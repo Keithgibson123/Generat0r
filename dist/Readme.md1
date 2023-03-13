@@ -1,0 +1,18 @@
+# Read me generator
+by $(data.name)
+$(renderLicenseBadge(data.license))
+
+
+## Table of contents
+[Discription](#discription)
+undefined
+
+
+## Discription
+I want to be able to generate a readme file with the backend of coding
+
+
+## Contact-Me
+Name - Keith Gibson
+email - 777-777-7777
+

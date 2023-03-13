@@ -38,12 +38,12 @@ $(renderLicenseBadge(data.license))
 
 
 ## Table of contents
-[Description](#description)
+[Discription](#discription)
 ${renderLicenseLink(data.license)}
 
 
-## Description
-${data.description}
+## Discription
+${data.discription}
 
 
 ## Contact-Me

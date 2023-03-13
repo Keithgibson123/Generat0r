@@ -57,7 +57,7 @@ function init() {
 
     //creating the readme to the file
     .then((response) =>
-        writeToFile('./dist/Readme.md', generateMarkdown(response))
+        writeToFile('./dist/Readme.md1', generateMarkdown(response))
     );
 }
 
